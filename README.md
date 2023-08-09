@@ -9,6 +9,7 @@
 - Business News: View the latest developments in the business field of gold and currency prices.
 - News about science and technology: View the latest developments in science and technology discoveries.
 - Supports search: Search for the information you want to get.
+- Day/night mode change
 <br>
 <div>
 <img src="https://github.com/Zonetto/flutter_coins/assets/100410170/75cd1fe6-074c-44fb-94d9-ca0ca4d53227" width="200"> 
@@ -22,7 +23,6 @@
 </div>
 
 ---
-
 ### Packages:
  * dio
  * shared_preferences
@@ -30,6 +30,11 @@
 
 ### State Management 
  * cubit
+
+**SDK**
+<br/>
+`sdk: sdk: '>=3.0.5 <4.0.0'`
+
 ---
 ## You can download the application by clicking on the link below 👇 
 [news-app](https://github.com/Zonetto/flutter_coins/files/12298717/news-app.apk.zip)
