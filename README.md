@@ -37,4 +37,5 @@
 
 ---
 ## You can download the application by clicking on the link below 👇 
+##### _the file format zip_
 [news-app](https://github.com/Zonetto/flutter_coins/files/12298717/news-app.apk.zip)
